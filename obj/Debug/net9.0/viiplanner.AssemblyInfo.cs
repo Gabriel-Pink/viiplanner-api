@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("viiplanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c694fb1e991ebfb3d3995c128cc492b05d61324")]
 [assembly: System.Reflection.AssemblyProductAttribute("viiplanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("viiplanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
