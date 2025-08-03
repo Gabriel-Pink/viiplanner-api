@@ -1,2 +1,79 @@
+## Build Results
 bin/
 obj/
+
+## Rider
+.idea/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## dotCover
+*.dotCover
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Azure Pipelines
+.azdo/
+
+## Build artifacts
+artifacts/
+
+## Local Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## dotnet user-secrets
+**/secrets.json
+
+## Global.json
+global.json
+
+## Temporary files
+~$*
+
+## EF Core Migrations snapshot
+**/*Snapshot.cs
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Tye
+.tye/
+
+## Docker
+**/*.db
+docker-compose.override.yml
+.env
+
+## VS for Mac
+.vscode/
+.idea/
+*.sln.iml
